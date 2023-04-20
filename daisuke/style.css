@@ -5,11 +5,11 @@
 }
 
 body {
-  background-color: #52c9dc;
+  background-color: #9e52dc;
 }
 
 .container {
-  background-color: #f2f8fc;
+  background-color: #fbf2fc;
   position: fixed;
   top: 50vh;
   left: 50vw;
@@ -35,11 +35,11 @@ button:active {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
 }
 .primary-color {
-  background-color: #52c9dc;
-  color: #f2f8fc;
+  background-color: #9e52dc;
+  color: #fbf2fc;
 }
 .secondary-color {
-  background-color: #f2f8fc;
+  background-color: #fbf2fc;
 }
 .line-double {
   display: flex;
@@ -68,7 +68,7 @@ button:active {
   font-size: 20px;
 }
 .result-wrap > span:nth-child(1) {
-  color: #52c9dc;
+  color: #9e52dc;
   font-weight: bold;
 }
 #result {
